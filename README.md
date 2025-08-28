@@ -1,9 +1,9 @@
 # Google CSE
 
-[![PyPI version](https://img.shields.io/pypi/v/google_cse.svg)](https://pypi.org/project/google_cse/)
-[![Python versions](https://img.shields.io/pypi/pyversions/google_cse.svg)](https://pypi.org/project/google_cse/)
+[![PyPI version](https://img.shields.io/pypi/v/google-cse.svg)](https://pypi.org/project/google-cse/)
+[![Python versions](https://img.shields.io/pypi/pyversions/google-cse.svg)](https://pypi.org/project/google-cse/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Downloads](https://pepy.tech/badge/google_cse)](https://pepy.tech/project/google_cse)
+[![Downloads](https://pepy.tech/badge/google-cse)](https://pepy.tech/project/google-cse)
 
 A clean, **type-safe Python client** for the [Google Custom Search JSON API](https://developers.google.com/custom-search/v1/overview).
 This wrapper provides simple methods for **web** and **image** searches, with full type safety powered by **Pydantic models**.
