@@ -13,7 +13,7 @@ This wrapper provides simple methods for **web** and **image** searches, with fu
 ## 🔧 Installation
 
 ```bash
-pip install google_cse
+pip install google-cse
 ```
 
 ---
@@ -99,7 +99,7 @@ img_params = ImageSearchParameters(
 
 images = client.image_search("cat", num_results=3, parameters=img_params)
 for img in images:
-    print(img.title, "-", img.image_context_link)
+    print(img.title, "-", img.context_link)
 ```
 
 ---
